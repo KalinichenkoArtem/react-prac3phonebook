@@ -1,8 +1,8 @@
 {
-  "name": "react-prac2phonebook",
+  "name": "react-prac3phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KalinichenkoArtem.github.io/react-prac2phonebook/",
+  "homepage": "https://KalinichenkoArtem.github.io/react-prac3phonebook/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
